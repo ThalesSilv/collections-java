@@ -4,7 +4,6 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class ListaTarefa {
-		int aa;
 		private List<Tarefa> tarefaList;
 
 		public ListaTarefa() {
